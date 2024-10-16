@@ -1,0 +1,9 @@
+#include<iostream>
+Using namespace std;
+int main(){
+ int a,b,c;
+ a = 5;
+ b = 3;
+cout<<c;
+return 0;
+}
